@@ -1,2 +1,3 @@
-# ubithings
-UbiThings
+# UbiThings
+
+Personal Inventory Management System.
